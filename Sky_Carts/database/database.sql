@@ -1,0 +1,1 @@
+userproductSELECT * FROM cloth_db.admin;
