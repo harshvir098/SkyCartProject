@@ -17,6 +17,8 @@ public class AdminDao {
 		super();
 		this.conn = conn;
 	}
+	
+	/*helloworld*/
 
 	public boolean addUser(Admin user) {
 		boolean f = false;
